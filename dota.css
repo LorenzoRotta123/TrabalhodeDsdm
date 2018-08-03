@@ -1,0 +1,46 @@
+#header1 {
+	background-color: #101010;
+	width: 100%;
+	height: auto;
+}
+
+#dotaTitle {
+	color: white;
+	font-family: 'Audiowide';
+	font-size: 50px;
+}
+
+img {
+	width: 50%;
+	height: auto;
+}
+
+#dotaLogo {
+	width: 35%;
+	height: 35%;
+}
+
+#text1 {
+	text-align: center;
+	font-size: 22px;
+	font-family: 'Audiowide';
+	width: 60%;
+	margin-left: 20%;
+}
+
+#siteHalfLife {
+	text-decoration: none;
+}
+
+#navlist {
+	list-style: none;
+}
+
+#navlist li {
+	display: inline-block;
+
+}
+
+.right {
+	float: right;
+}
